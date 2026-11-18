@@ -1,0 +1,6 @@
+{
+  "name": "ArtVibe Gallery",
+  "description": "Galeri seni digital, pusat edukasi sejarah lukisan klasik dunia, pratinjau ruang virtual, dan ruang rating apresiasi pengunjung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
